@@ -13,5 +13,9 @@ before. Such a hateful prejudice, overcome by a loyalty to the truth.
 A hateful other may be another Picquart. A person on your 'side', on
 average, is likely not. Remember this.
 
+The institutional bias of the spy-prosecutors was uncomfortably
+reminiscent of bits I've read about the U.S. justice
+system. [E.g.](http://paulgraham.com/real.html)
+
 # Chapter 2 What the Soldier is Protecting
 
