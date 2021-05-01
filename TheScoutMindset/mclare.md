@@ -16,3 +16,21 @@
 * Aaron has been challenging me lately on whether Python is easier to learn than Excel -- has prompted me to reexamine what people do like about Excel
 * I've heard of tall poppy syndrome and it feels like that's why I've had a hard time in industry
 * Leaving a community rather than challenging the norms seems like tribalism (and partly why the US is so divided)
+## Chapter 3 - Why Truth is More Valuable Than We Realize
+* Soldier functions in the table center around immediate comfort and needs.. how you perceive yourself and how others perceive you... Scout doesn't gaf what other people think? Maybe less good at the whole hearts and minds thing (which is something I struggle with)
+* Apparently I don't care about belonging anymore as I've very much decided to live a less "traditional" life according to most structural engineers
+* Is scruitinizing a plan for flaws too pessimistic? Stopping something before it can even be started?
+* Rational irrationality hypothesis - two senses of rational 
+* Every time you say, "Oh, that's a good point, I hadn't thought of that" - it gets a little bit easier for you to acknowledge good points in general...Every time you're willing to say "I was wrong," it gets a little bit easier to be wrong in general
+* Revisiting tall poppy syndrome - issue of overreation
+* Scout mindset is more feasible today? Are we going to have anecdotes about how iconoclasts follow the scout mindset?
+## Chapter 4 - Signs of a Scout
+* Cognitive dissonance? very smart people can hold irrational opinions on things outside their area of expertise
+* Issue of leading questions and bias in science
+* How have I changed when it comes to personal criticism? I think quite a bit in the past 5 years
+* 360 reviews 
+* How much does bias and the soldier mindset fuck up doing good science?
+* Lots of feelings about when I've been a soldier in the past...
+## Chapter 5 - Noticing Bias
+* LOL the outsider test is why I quit my phd..
+* 
