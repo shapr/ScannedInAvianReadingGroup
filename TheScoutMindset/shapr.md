@@ -45,3 +45,8 @@
 # Chapter 5 Noticing Bias
 
 * In college the first time around, I used to practice exploiting attentional blindness in others in hopes it would improve my own self. I had some improvement, but I'm still easy to fool in a bunch of cases.
+* I've had ad hominem attacks applied to me enough times that I would not use adultery as a reason to ignore information I got from someone.
+* My girlfriend organized a communication workshop at a phone phreaker conference. We had to spend the first five minutes describing the person at work who made us angry. The next five minutes we had to pretend to be that person, we had to say what they would say if they heard what we'd said in the first five minutes. A third of the workshop attendees stood up and walked out when they heard that instruction. I stayed and gained more insight into that work person that made me so angry. It wasn't an easy brain stretch though!
+* I make myself a hard condition to follow when I'm not stressed, and then blindly follow that condition when I am stressed. That's why I quit my last job, because the conditions I'd written down for myself were violated. But at the time I didn't want to quit and abandon my coworkers. Months later I knew I had done the right thing.
+* Yeah, these thought experiments are good, but golly do there have to be so many anecdotes?
+* I did an experiment where I got a friend to give me a CD they thought I'd hate, but tell me I'd like it, and do the opposite with another CD. I discovered I really did like the CD they said I'd like, even after they told me why they thought I would not like it. Because of that, I try to expose myself to new music without the influence of others, and I try to be aware of how easily I can be influenced!
