@@ -33,4 +33,19 @@
 * Lots of feelings about when I've been a soldier in the past...
 ## Chapter 5 - Noticing Bias
 * LOL the outsider test is why I quit my phd..
-* 
+## Chapter 6 - How Sure Are You?
+* These questions about certainty and quantifying it are reminding me of one of the lightning talks!
+* TODO: The Calibration exam
+* "The press secretary isn't thinking about what's true. He's thinking about what he can get away with saying, what will present the company in the best light while still being at least sort of plausible..." -- so is this just Yes men/managment
+* Equivalent bet test - way of testing your confidence
+## Chapter 7 - Coping with Reality
+* "Most people in an emergency resort to various forms of motivated reasoning, like denial, wishful thinking, and rationalizing" -- how can you use the Scout mindset in stressful/emotional situations where that would seem to override this the most? Approach with Callahan seems to rely on establishing positive mindset of "at least I..."
+* Again I really need to read Thinking Fast and Slow...
+* Darwin: "I have worked as hard and as well as I could, and no man can do more than this."
+* Very much identify with the mental health depends on holding positive illusions rather than acknowledging truths
+## Chapter 8 - Motivation Without Self-Deception
+* Just at the start I'm kind of missing how this is like the previous chapter related to the Scout Mindset? Is the Scout mindset based on belief?
+* [The] biggest problem with the self-belief approach to motivation. Because you're not supposed to think realistically about risk, it becomes impossible to ask yourself questions like, "Is this goal desirable enough to be worth the risk?"
+* Is the scout mindset about finding various opportunities rather than seeing things as binary decisions?
+* Elon Musk - "If something's important enough you should try." --who's to say that something is important? What I consider important doesn't even register for most people.
+* "Scouts rely on a different kind of morale. Instead of being motivated by the promise of guaranteed success, a scout is motivated by the knowledge that they're making a smart bet, which that can feel good about having made whether or not it succeeds. Even if a particular bet has a low probability of success, they know that their overal probability of success in the long run is much higher as long as they keep making good bets. They're motivated by the knowledge that downtursn are inevitable but will washin out in the long run; that althought failure is possible, it is also tolerable" -- growth mindset/journey rather than goal focused?
