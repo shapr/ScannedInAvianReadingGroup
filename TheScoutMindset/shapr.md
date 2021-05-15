@@ -50,3 +50,37 @@
 * I make myself a hard condition to follow when I'm not stressed, and then blindly follow that condition when I am stressed. That's why I quit my last job, because the conditions I'd written down for myself were violated. But at the time I didn't want to quit and abandon my coworkers. Months later I knew I had done the right thing.
 * Yeah, these thought experiments are good, but golly do there have to be so many anecdotes?
 * I did an experiment where I got a friend to give me a CD they thought I'd hate, but tell me I'd like it, and do the opposite with another CD. I discovered I really did like the CD they said I'd like, even after they told me why they thought I would not like it. Because of that, I try to expose myself to new music without the influence of others, and I try to be aware of how easily I can be influenced!
+
+# Chapter 6 How sure are you?
+
+* Spock is a TV character, I'd rather see someone like a politician making predictions, still fun though.
+* Beth says: this book does not train the skill, law school does
+* Beth and I went through the test in the book, I almost always rated my answers with higher certainty, but we didn't do the final tally.
+* On betting, I realize exercise is a bet that the time sacrificed will pay off in the future, so far that's been correct! If a giant meteor was about to hit earth, that bet would not pay off.
+* The equivalent bet test sounds like a way to reformulate the problem as done with the [Wason selection task](https://en.wikipedia.org/wiki/Wason_selection_task) .
+
+# Chapter 7 Coping With Reality
+
+* Soldier gets you moving when things are bad, motivated reasoning can get me to continue doing a thing even when historically I've not done well. I got a Haskell job after about fifteen years of trying, yeah?
+* To me this is where I blame myself, and use motivated reasoning to believe that I can and will do better next time.
+* On reading the part about motivated reasoning as covering up part of reality, maybe I continue to misunderstand soldier mindset? What do you call the bloody minded conviction that things will be better if I try one more time?
+* On making a plan, I tend to make a plan on when to bail out of a thing as soon as I see a stressful situation coming. That's why I left Europe in fact! I've noticed that my standards for when to stop doing a thing change once I get stressed, so I try to decide ahead of time, and then stick to the plan no matter how I feel about the situation.
+* The self deception research sounds like it's full of bias.
+
+# Chapter 8 Motivation Without Self-Deception
+
+* The self-belief model of success matches my long haul on getting a Haskell job!
+* My whole problem with anecdotes is the selection bias involved. You can choose anything to match what you want to illustrate.
+* I do like this Elon Musk quote about trying important things even if they have a low chance of success.
+* Oh yeah, the emotional toll of variance is high.
+* I think accepting the possibility of failure lets you change the definition of success to "something that works out well" instead of "exactly that one thing I want to happen".
+
+# Chapter 9 Influence Without Overconfidence
+
+* Ah, I often see conflation of epistemic and social confidence.
+* I'd argue that speaking with modest diffidence lets others "own" the solution as much as the person suggesting the solution.
+* So, drink lots of coffee so you can exude social confidence? I dunno about this.
+* I'd argue the uncertain doctors who can give some useful information appear more knowledgeable than those who say they have no clue.
+* setting expectations is important in all things
+* I do like the 1. show uncertainty is justified 2. give informed estimates and 3. have a plan ; that's great!
+* Yeah, when given choices designed to force you to make a bad choice, look for the other options you weren't given, they are always there.
