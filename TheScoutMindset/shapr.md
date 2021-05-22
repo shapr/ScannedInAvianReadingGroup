@@ -84,3 +84,52 @@
 * setting expectations is important in all things
 * I do like the 1. show uncertainty is justified 2. give informed estimates and 3. have a plan ; that's great!
 * Yeah, when given choices designed to force you to make a bad choice, look for the other options you weren't given, they are always there.
+
+# Chapter 10 How to Be Wrong
+
+* I want to read more about Tetlock's forecasting research
+* "What made the superforecasters so great at being right was that they were great at being wrong
+* Change your mind all the time, subtle revisions as new information is discovered
+* ACTION ITEM: Whenever someone cites something to support their argument, chase down the reference and read it yourself.
+* This climate change person is an interesting story https://en.wikipedia.org/wiki/Jerry_Taylor
+* Changing my mind frequently does sound taxing, except I would rather be right and unhappy than wrong.
+* I wonder if forecasts is a good way to communicate with people who hold opposing views?
+* My forecast, COVID-19 did not come from a chinese lab, my references include https://www.reddit.com/r/science/comments/gk6y95/covid19_did_not_come_from_the_wuhan_institute_of/
+* It's easy for people to continue believing the same thing when presented with evidence to the contrary. For me, I want to believe Bernie Sanders would have been a better president, and should have been chosen as the Democratic presidential nominee, but I don't have any proof of that!
+* Superforecasters *re-evaluate their process* when their prediction misses the mark by a lot. THIS IS GREAT!
+* ACTION ITEM: Shae will create a public decision journal with percentage belief, and update when new information is given. Can I turn myself into a superforecaster? Is this what lesswrong is all about?!
+* Projection is common! When something didn't happen as a forecaster predicted, they realized they were saying "if *I* were in that role, I would not have done that thing".
+* superforecasters view errors as opportunities to hone their skill at getting things right, that way realizing "I was wrong" feels valuable instead of painful.
+* changing your mind should not be a humbling experience, it doesn't mean you screwed up
+* being wrong doesn't mean you did something wrong!
+* instead of "admitting a mistake", think "updating your Bayesian priors" !
+* I'm afraid the anecdote from Buck Schlegeris may be about a conversation the two of us had, hmm
+* "Knowing you are fallible allows you to set expectations" yeah, don't be upset when you're wrong!
+* "inoculate yourself against the horror of having been suboptimal"
+
+# Chapter 11 Lean In to Confusion
+
+* I see the point of the photograph, but I'm still grumpy about it. It's really low-res and I didn't get enough information, but maybe that's part of the point I should take away from this?
+* Lack of evidence isn't a support for anything.
+* Action Item: follow Darwin's practice of immediately recording opposing information since my brain doesn't want to remember it.
+* Natural selection *is* sexual selection too!
+* Darwin followed up on every observation that contradicted his theory, revising his theory in response
+* Wait, was Tetlock's seven belief system defenses actually in chapter 10? Did I miss that? Was it revised out later?
+* My first response to "this is kind of awkward" was 'Now we have a chance to reset and synchronize all over again' !
+* Homeopathy Hospital: good practices can improve things, but it's important to know exactly which practices are the good ones!
+* paradigm shift is equivalent to breakthrough, I think?
+* On the topic of accumulated anomalies, does this mean statistics should not discard outliers? I want hard info on this topic!
+* Lesson: separate observations from theories.
+* Funny story from a few months ago: The screen on my work mac would change background hue at what appeared to be random times. The only connection I could find was that it happened most often when my software test suite would alternately fail and succeed, and when I was sitting near the screen. It took me several days to consider placing my [test suite status display](https://github.com/shapr/bloohm) near the screen, because the only hypothesis that fit the data was "screen changes color depending on whether my tests pass or fail" and I couldn't easily fit that into my reality!
+
+# Chapter 12 Escape Your Echo Chamber
+
+* Listening to someone else's echo chamber doesn't help?
+* Listen to people you find reasonable,
+* Listen to people who share common intellectual ground.
+* Listen to people who share your goals.
+* Team of Rivals doesn't always work. If they're not dealing in good faith, sure. Even so, diversity in team problem solving *will* save you time and effort.
+* It's harder than you think. Oh yeah, I'm continuing my conversations with my Trump-loving sibling, I KNOW ABOUT THIS.
+  * We misunderstand each other's views
+  * bad arguments inoculate us against good arguments - maybe this should be "don't put an idea or person in a box and leave them there?"
+  * beliefs are inter-dependent - yes they are! I suspect this is the largest problem of the trumpian web of lies.
