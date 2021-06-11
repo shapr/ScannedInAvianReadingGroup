@@ -32,3 +32,17 @@
 * "If you program strategically, you will continually make small improvements to the system design." YES! I like this idea!
 * "poor code quality slows development by at least 20%" AGREED
 * "think of investement as something to do today, not tomorrow" yay!
+
+# Chapter 4 Modules Should Be Deep
+
+* "The interface consists of everything that a developer working in a different module must know in order to use the given module" This is a great description of an interface!
+* "In general, if a developer needs to know a particular piece of information in order to use a module, then that information is part of the module's interface." This is a great point.
+* Footnote: "there exist languages, mostly in the research community, where the overall behavior of a method or function can be described formally using a specification language. " What are these languages? I'd like to read more about them!
+* ways abstractions can go wrong:
+  1. omit important details
+  2. include unimportant details
+  sure, makes sense to me
+* Deep Module: powerful functionality with simple interface
+* "garbage collection shrinks the interface" huh, neat point
+* shallow modules have a complex interface relative to the functionalit, linked list is the given example.
+* "interfaces should be designed to make the common case as simple as possible" strong agree. Also Java's standard library classes is a good example of overwhelming numbers of classes that don't do much by themselves. (not that I've used Java the past few years)
