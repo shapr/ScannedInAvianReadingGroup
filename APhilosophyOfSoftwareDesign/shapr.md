@@ -46,3 +46,11 @@
 * "garbage collection shrinks the interface" huh, neat point
 * shallow modules have a complex interface relative to the functionalit, linked list is the given example.
 * "interfaces should be designed to make the common case as simple as possible" strong agree. Also Java's standard library classes is a good example of overwhelming numbers of classes that don't do much by themselves. (not that I've used Java the past few years)
+
+# Random Notes
+
+* Shae believes that maximizing speed of change is the best way to get all the other good parts of software. When code is easy to change:
+  * speed of execution is easier to get by changing your approach to the problem, swapping out the algorithm or etc.
+  * fixing bugs is easier
+  * optimizing slow parts is easier
+  * insight and understanding is easier, you can try new ideas quickly!
