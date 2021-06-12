@@ -18,7 +18,7 @@
 * "Complexity is anything related to the structure of a software system that makes it hard to understand and modify the system. [..] For example, it might be hard to understand how a piece of code works" comprehensibility is king.
 * "it's worth probing other developers to find out why the code seems complex to them" that's a good idea, I should try that at work.
 * change amplification vs cognitive load; Are these two opposites? That is, local changes are easy to make and understand? not sure about this one.
-* "one o fthe most important goals of good design is for a system to be obvious." Not sure I agree with this, nothing is obvious unless you already know it, especially in programming.
+* "one of the most important goals of good design is for a system to be obvious." Not sure I agree with this, nothing is obvious unless you already know it, especially in programming.
 * "it may be necessary to add an entry to a table holding string messages for each new status" - everyday at my job
 * "obscurity comes from inadequate documentation" - also everyday at my job.
 * with complexity "developers spend more time acquiring enough information to make the change safely" - yup, everyday at my job.
