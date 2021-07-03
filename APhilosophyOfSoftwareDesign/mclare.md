@@ -33,5 +33,13 @@
 - "Information hiding can often be improved by making a class slightly larger"
 - Are there programming languages where temporal decomposition kind of can't happen? (I'm thinking Haskelly but I could be wrong)
 ## Chapter 6 - General-Purpose Modules are Deeper
-## Chapter 7
-## Chapter 8
+- so should functions only be defined if they're used in more than one place? re: text editor example
+- The general purpose API only wraps up consolidation of two methods into one (delete key vs backspace key), is it more about the transparency of what it does at the interface level where the parameters explicitly indicate the method?
+- This chapter was a bit harder to grok for specific applications, might need to reread again in a week.
+## Chapter 7 - Different Layer, Different Abstraction
+- dispatcher -- is this like a switch statement where it parses out which method to use?
+- Hating on decorators... are decorators the same thing in all languages? I feel like the case for decorators is underdeveloped here because the author wants to warn against their usage
+- context objects vs. global variables?? so you create an object that has properties that are the global state
+## Chapter 8 - Pull Complexity Downwards
+- "It is more important for a module to have a simple interface than a simple implementation"
+- This is a pretty short chapter that seems to just be reinforcing the previous ones while just adding some info about avoiding configuration parameters (though this is a useful concept for me with Pymaxion)
