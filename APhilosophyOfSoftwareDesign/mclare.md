@@ -17,3 +17,21 @@
 - "Sometimes an approach that requires more lines of code is actually simpler, because it reduces cognitive load" -- HARD AGREE ON THIS ONE. When I was learning python and being exposed to an alpha framework, it felt like the developer was fixated on code golf to see how much he could pack into a single list comprehension.
 - "Complexity is caused by two things: dependencies and obscurity"
 - Dependencies vs modules? is it just that a library and how it works isn't exposed in dependencies?
+## Chapter 3 - Working Code Isn't Enough
+- Feels like there's some unspoken nuance in terms of what's tactical vs strategic... how can you completely scope a problem at its onset? Is this even realistic?
+- If the primary goal is to produce a great design... what consistutes that? is it using well established/accepted design patterns? What makes it elegant?
+- Sidebar - spaghetti code base is a term that exists outside visual programming?
+- This chapter seems to be mostly about organizational approach. Having a clear idea in mind of how the system should work before you start to implement it and taking that prep/kickoff time
+## Chapter 4 - Modules Should Be Deep
+- "An abstraction is a simplified view of an entity, which omits unimportant details"
+- Struggling with how "deep" modules are a good thing. This kind of goes against the "small methods/functions" paradigm I've seen, but I guess it really depends on module dependency.
+- Can you actually see garbage collection in any programming language? Could I see what happens with Python? (Wondering if maybe pyspy can expose that)
+- It seems like th biggest challenge with the deep vs shallow classes is answering the "what ifs?" while you're programming. I definitely tend to think of too many ways that something might be used, which leads to shallower functions, rather than limiting available actions
+## Chapter 5 - information Hiding (and Leakage)
+- The section on Information Leakage just seems like a different way of saying DRY
+- "When designing modules, focus on the knowledge that's needed to perform each task, not the order in which tasks occur"
+- "Information hiding can often be improved by making a class slightly larger"
+- Are there programming languages where temporal decomposition kind of can't happen? (I'm thinking Haskelly but I could be wrong)
+## Chapter 6 - General-Purpose Modules are Deeper
+## Chapter 7
+## Chapter 8
