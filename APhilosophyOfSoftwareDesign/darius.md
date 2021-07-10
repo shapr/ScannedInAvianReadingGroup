@@ -183,3 +183,52 @@ another"
 
 ## Chapter 10 - Define errors out of existence
 
+"overall lesson from this chapter is to reduce the number of places
+where exceptions must be handled"
+
+### 10.1 Why exceptions add complexity
+
+### 10.2 Too many exceptions
+
+"classes with lots of exceptions have complex interfaces" "An
+exception is a particularly complex element of an interface. It can
+propagate up through several stack levels"
+
+"The best way to reduce the complexity damaged caused by exception
+handling is to **reduce the number of places where exceptions have to
+be handled**."
+
+### 10.3 Define errors out of existence
+
+### 10.4 Example: file deletion in Windows
+
+### 10.5 Example: Java substring method
+
+"This approach simplifies the API for the method while increasing its
+functionality, so it makes the method deeper."
+
+"if errors are defined out of existence, won't that result in buggier
+software?"
+
+### 10.6 Mask exceptions
+
+### 10.7 Exception aggregation
+
+"handle many exceptions with a single piece of code"
+
+"Masking and aggregation are similar in that both approaches position
+an exception handler where it can catch the most exceptions,
+eliminating many handlers that would otherwise need to be created."
+
+### 10.8 Just crash?
+
+### 10.9 Design special cases out of existence
+
+"The best way to do this is by designing the normal case in a way that
+automatically handles the special cases without any extra code."
+
+### 10.10 Taking it too far
+
+"Things that are not important should be hidden, and the more of them
+the better. But when something is important, it must be exposed."
+
