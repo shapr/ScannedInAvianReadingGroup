@@ -133,3 +133,53 @@ functionality, (b) pulling the complexity down will result in many
 simplifications elsewhere in the application, and (c) pulling the
 complexity down simplifies the class's interface. Remember that the
 goal is to minimize overall system complexity."
+
+## Chapter 9 - Better together or better apart?
+
+"when it makes sense to bring pieces of code together and when it
+makes sense to separate them."
+
+### 9.1 Bring together if information is shared
+
+### 9.2 Bring together if it will simplify the interface
+
+### 9.3 Bring together to eliminate duplication
+
+### 9.4 Separate general-purpose and special-purpose code
+
+"Red flag: repetition"
+
+### 9.5 Example: insertion cursor and selection
+
+"one project team took this approach. The object stored two positions
+in the file, along with booleans indicating which end was the cursor
+and whether the selection existed."
+
+"Red flag: special-general mixture" ... "when a general-purpose
+mechanism also contains code specialized for a particular use of that
+mechanism"
+
+### 9.6 Example: separate class for logging
+
+### 9.7 Example: editor undo mechanism
+
+### 9.8 Splitting and joining methods
+
+"The best way is by factoring out a subtask into a separate method"
+... "If you make a split of this form and then find yourself flipping
+back and forth between the parent and child to understand how they
+work together, that is a red flag"
+
+"The second way... is to split it into two separate methods... makes
+sense if the original method had an overly complex interface because
+it tried to do multiple things"
+
+"There are also situations where a system can be made simpler by
+joining methods together."
+
+"Red flag: conjoined methods... if you can't understand the
+implementation of one method without also understanding that of
+another"
+
+## Chapter 10 - Define errors out of existence
+
