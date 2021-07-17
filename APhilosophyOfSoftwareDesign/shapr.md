@@ -47,6 +47,30 @@
 * shallow modules have a complex interface relative to the functionalit, linked list is the given example.
 * "interfaces should be designed to make the common case as simple as possible" strong agree. Also Java's standard library classes is a good example of overwhelming numbers of classes that don't do much by themselves. (not that I've used Java the past few years)
 
+# Chapter 11 Design it Twice
+* you can't choose the best design unless you've come up with several designs
+
+# Chapter 12 Why Write Comments? Four Excuses
+* comments are part of the design?
+* "Inadequate documentation creates a huge and unnecessary drag on software dev" OH YES
+* "coments are fundamental to abstractions" "abstractions hide complexity" I'd buy that
+* "comments capture information in the mind of designer that's not represented in the code" I like this!
+
+# Chapter 13
+* "use different words in the comment from those in the name of the entity being described" multiple descriptions give more info? the reader can triangulate?
+* "higher level comments enhance intuition" - what's intuition? the big picture of the software?
+* comments - what and why, not how
+
+# Chapter 14
+* names are documentation also?
+* use names consistently - this is very important in Haskell!
+* Hungarian notation takes descriptive names too far
+
+# Chapter 15
+* not yet convinced about writing the comments first, I gotta try this
+
+* * Aren't tests also documentation?
+
 # Random Notes
 
 * Shae believes that maximizing speed of change is the best way to get all the other good parts of software. When code is easy to change:
