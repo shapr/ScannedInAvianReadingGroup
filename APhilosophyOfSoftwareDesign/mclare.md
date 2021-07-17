@@ -43,3 +43,28 @@
 ## Chapter 8 - Pull Complexity Downwards
 - "It is more important for a module to have a simple interface than a simple implementation"
 - This is a pretty short chapter that seems to just be reinforcing the previous ones while just adding some info about avoiding configuration parameters (though this is a useful concept for me with Pymaxion)
+## Chapter 11 - Design it Twice
+- sketch out multiple methods for approaching a problem
+- this goes back to having more planning time rather than diving immediately into coding something up
+## Chapter 12 - Why Write Comments? The Four Excuses
+- LOL I have heard the "good code is self-documenting" schtick -- was this in Clean Code?
+- I write comments in technical engineering problems because the implementation usually is based on some building code.. which should be explicitly mentioned by the methods implemented
+- I usually write comments as part of pseudocode as I'm mapping something out and then modify/remove as I go
+- Sounds like a big chunk of these next chapters will be all about documentation! Something I am on board with
+- I think cognitive load is just a hilarious technical term for being overwhelmed.
+## Chapter 13 - Comments Should Describe Things that Aren't Obvious From the Code
+- "Comments should describe things that aren't obvious from the code" ... but can't be included in the code
+- "Developers should be able to understand the abstraction provided by a module without reading any code other than its externally visible declarations" -- bring on the docstrings!
+- if a comment could be written by someone who had never seen the code before after reading the code, it should be omitted
+- precision vs intuition - low level vs high level
+- documenting a variable - nouns over words -- what it represents
+- high level intuition - what is the most important thing about this code? how we get here to this block of code? under what circumstances is this part of the code invoked?
+- "If you want code that presents good abstractions, you must document those abstractions with comments"
+- Interface comments vs Implementation comments
+  - Interface - how to use class/method (critical information) - both high level and low level
+  - Implementation - what the code does and why 
+## Chapter 14 - Choosing Names
+- wow I don't agree with the Go code convention at all... anything more than 10 lines will be a nightmare
+## Chapter 15 - Write the Comments First
+- I write comments first...
+
