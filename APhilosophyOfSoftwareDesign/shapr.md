@@ -68,8 +68,42 @@
 
 # Chapter 15
 * not yet convinced about writing the comments first, I gotta try this
-
 * * Aren't tests also documentation?
+
+# Chapter 16 Modifying Existing Code
+* "isn't possibleto conceive the right design for a system at outset; design of a mature system is determined more by changes made during the system's evolution" Shae prefers optimizing for speed of change for this reason!
+* I'm encouraged to make the smallest possible change that will do what is required, I am discouraged when I also include other changes in my PR. This makes me sad! Perhaps I could improve that by discussing possible strategic changes that would fit into the ticket I'm working? We definitely have a tactical codebase with spots of strategy.
+* **Ideally, when you have finished with each change, the system will have the structure it would have had if you had designed it from the start with that change in mind.** Has Ousterhout worked on a codebase that's being modified by multiple teams? Wait, perhaps Ousterhout changed the design of codebase so the team didn't step on each other's feet while making changes?
+* **If you're not making the design better, you are probably making it worse** that matches with Hamming's drunken sailer comment at the beginning of his style book, random walks get you to a random place, not any particular goal.
+* *keep comments near the code* doctests fit into this, right?
+* **push comments to the narrowest scope that includes all code referred to by the comment** ok that's a smart thing, I wonder if I already do that?
+* Type signatures are sort of documentation, they're a derivative of the code itself?
+* makes sense to put useful comments in the source instead of the commit message. "place documentation where developers are most likely to see it"
+* avoid duplication, because something will not get updated
+
+# Chapter 17 Consistency
+* I like this chapter, short and sweet and clear and excellent advice
+* I wish all our invariants were documented at work, even better I wish we had a tool that would check the database!
+
+# Chapter 18 Code Should Be Obvious
+* how to define obvious? I'm not convinced intuitive is a thing that actually exists. Oh, code review makes sense. Doesn't that mean obvious changes when you get a new hire?
+* **software should be designed for ease of reading, not ease of writing** heck yeah!
+
+# Chapter 19 Software Trends
+* composition instead of inheritance, I agree.
+* incremental design and development, I also agree.
+* **the increments of development should be abstractions, not features** uh, what? I have to think about that.
+* unit tests are good, yes
+* TDD detracts from design? huh, never thought about that.
+
+# Chapter 20 Designing for Performance
+* measure before modifying, programmers don't know what's slow, even if they *think* they know
+* design around the critical path, aka speed up the slow parts
+* remove special cases from the critical path
+* amortize work?
+
+# Chapter 21 Conclusion
+* early design effort pays off sooner than you think
 
 # Random Notes
 
