@@ -22,3 +22,21 @@ When we run it we get back one result:
 (hello-world)
 ```
 
+How to make that happen (I guess obvious):
+
+* Pick one of the code examples on the live tutorial page to edit --
+  one you don't care about, because you're going to overwrite it. (If
+  there's a way on this livecode.ch site to add a new example to the
+  tutorial as you're reading it, I don't know of it.)
+* Click inside that code example, and edit it to replace its text with
+  the above example text. (I used a paste.)
+* Click the black triangle to run it.
+
+## OK, what's miniKanren though? Why care?
+
+It's a way of doing constraint programming within a host language, in
+this case Scheme. In the above trivial example, we stated as a
+constraint that the variable `q` had to equal the constant
+`'hello-world`; then the miniKanren system found a way to satisfy the
+constraint. But that example was just to go through the mechanics
+making a query. What kind of *interesting* query can we do?
