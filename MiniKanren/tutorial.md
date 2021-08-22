@@ -30,7 +30,8 @@ How to make that happen (I guess obvious):
   tutorial as you're reading it, I don't know of it.)
 * Click inside that code example, and edit it to replace its text with
   the above example text. (I used a paste.)
-* Click the black triangle to run it.
+* Click the black triangle to run it. After a moment you should see
+  `(hello-world)` appear next to the triangle.
 
 ## OK, what's miniKanren though? Why care?
 
