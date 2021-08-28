@@ -49,4 +49,5 @@ it to generate Scheme programs that output their own source code.
 Now maybe your employer is not about to ask you to send them 1000
 quines by Monday; but a technology that can do this, which it was not
 directly designed to, can probably do other more useful things. [For
-example.](https://github.com/webyrd/Barliman)
+example,](https://github.com/webyrd/Barliman) [for
+example](https://io.livecode.ch/learn/gregr/icfp2017-artifact-auas7pp).
